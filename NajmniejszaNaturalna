@@ -17,12 +17,10 @@ public class najmniejszanaturalna {
         int wynik=0;
         if (tab[tab.length-1]<=0 || tab[0]>1)
             System.out.println(1);
-        else {
-            for (int i = 0; i < tab.length-1; i++) {
-                if (tab[i]>0 && tab[i + 1] > (tab[i] + 1)) {
-                    wynik = tab[i] + 1;
-                    break;
-                }
+        else for (int i = 0; i < tab.length - 1; i++) {
+            if (tab[i] > 0 && tab[i + 1] > (tab[i] + 1)) {
+                wynik = tab[i] + 1;
+                break;
             }
         }
         System.out.println(wynik);
