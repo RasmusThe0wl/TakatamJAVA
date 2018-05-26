@@ -1,0 +1,25 @@
+Zadanie 5.1
+2015
+Zadanie 5.2
+55
+2015-03-17
+2015-05-10
+Zadanie 5.3
+January=95433
+February=94730
+March=109439
+April=632931
+May=329203
+June=85628
+July=166597
+August=139747
+September=282342
+October=170729
+November=222440
+December=172072
+Zadanie 5.4a
+2015-04-19
+Zadanie 5.4b
+188
+Zadanie 5.4c
+1399242
